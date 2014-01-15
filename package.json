@@ -1,0 +1,23 @@
+{
+    "name": "vnrails",
+    "version": "0.0.0",
+    "description": "framework nodejs like rails",
+    "main": "index.js",
+    "author": "HieHieNoMi",
+    "email": "hiehiebnomi@gmail.com",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hiehienomi/vnrails.git"
+    },
+    "keywords": [
+        "nodejs",
+        "rails"
+    ],
+    "author": "HieHieNoMi <hiehiebnomi@gmail.com> (http://hiehienomi.info/)",
+    "license": "BSD",
+    "bugs": {
+        "url": "https://github.com/hiehienomi/vnrails/issues"
+    },
+    "homepage": "http://vnrails.hiehienomi.info"
+}
